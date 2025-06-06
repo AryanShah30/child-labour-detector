@@ -1,6 +1,5 @@
 from ultralytics import YOLO
 import numpy as np
-import cv2
 from PIL import Image
 
 model = YOLO("yolov8n.pt")
